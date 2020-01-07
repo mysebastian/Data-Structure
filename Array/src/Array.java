@@ -31,17 +31,17 @@ public class Array<E> {
 
     //    在第index个位置添加元素e
     public void add(int index,E e) {
-        if (size == data.length) {
-            throw new IllegalArgumentException("Add Failed,Array is full");
-        }
         if (index < 0 || index > size) {
             throw new IllegalArgumentException("Add Failed,required index>=0 and index<=size");
         }
+        if (size == data.length) {
+            resize(2 * data.length);
+        }
         for (int i = size - 1; i >= index; i--) {
             data[i+1]=data[i];
+        }
             data[index]=e;
             size++;
-        }
     }
 
     //    在数组末尾添加元素
@@ -60,13 +60,14 @@ public class Array<E> {
         StringBuilder res = new StringBuilder();
         res.append(String.format("Array:size=%d,capacity=%d\n", size, data.length));
         res.append("[");
-        for (int i = 0; i < data.length; i++) {
+        for (int i = 0; i < size; i++) {
             res.append(data[i]);
             if (i != size - 1) {
                 res.append(",");
             }
-            res.append("]");
+
         }
+        res.append("]");
         return res.toString();
     }
 
@@ -116,6 +117,9 @@ public class Array<E> {
         }
         size--;
         data[size]=null;
+        if (size == data.length / 4 && data.length / 2 != 0) {
+            resize(data.length / 2);
+        }
         return ret;
     }
 
@@ -135,6 +139,15 @@ public class Array<E> {
         if (index != -1) {
           remove(index);
         }
+    }
+
+    //    动态改变数组容量
+    private void resize(int newCapacity) {
+        E[] newData= (E[]) new Object[newCapacity];
+        for (int i = 0; i < size; i++) {
+            newData[i] = data[i];
+        }
+        data = newData;
     }
 
 }
