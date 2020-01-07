@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb9fbab9-b6ad-44fc-953a-9bb23847a044" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:mysebastian/Data-Structure.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W1GjmtEXdqyenZhzt7XVkKLAF3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowAnt.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../.." />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Array" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb9fbab9-b6ad-44fc-953a-9bb23847a044" name="Default Changelist" comment="" />
+      <created>1578309825129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578309825129</updated>
+      <workItem from="1578309829664" duration="6765000" />
+      <workItem from="1578324512042" duration="3000" />
+      <workItem from="1578354172055" duration="1098000" />
+      <workItem from="1578357428797" duration="7414000" />
+    </task>
+    <task id="LOCAL-00001" summary="将范例中int[]改为泛型数组">
+      <created>1578359248065</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578359248065</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="将范例中int[]改为泛型数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="将范例中int[]改为泛型数组" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser" timestamp="1578320059398">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1578320059398" />
+    <state x="274" y="15" key="CommitChangelistDialog2" timestamp="1578359247275">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="274" y="15" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578359247275" />
+    <state x="549" y="176" key="FileChooserDialogImpl" timestamp="1578358359304">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="176" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1578358359304" />
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1578371541169">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578371541169" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1578371541168">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1578371541168" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1578371541168">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1578371541168" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1578371541168">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1578371541168" />
+    <state x="408" y="121" key="NewModule_or_Project.wizard" timestamp="1578358704274">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="408" y="121" key="NewModule_or_Project.wizard/0.0.1536.834@0.0.1536.834" timestamp="1578358704274" />
+    <state x="272" y="63" key="SettingsEditor" timestamp="1578358137203">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="272" y="63" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1578358137203" />
+    <state x="999" y="342" key="VCS.ChangelistChooser" timestamp="1578357272508">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="999" y="342" key="VCS.ChangelistChooser/0.0.1536.834@0.0.1536.834" timestamp="1578357272508" />
+    <state x="361" y="154" key="Vcs.Push.Dialog.v2" timestamp="1578359257593">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="154" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1578359257593" />
+    <state x="568" y="110" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578370689372">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="568" y="110" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1578370689372" />
+  </component>
+</project>
