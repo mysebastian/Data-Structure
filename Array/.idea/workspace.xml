@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb9fbab9-b6ad-44fc-953a-9bb23847a044" name="Default Changelist" comment="" />
+    <list default="true" id="cb9fbab9-b6ad-44fc-953a-9bb23847a044" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1W1GjmtEXdqyenZhzt7XVkKLAF3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -23,8 +34,11 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ToolWindowAnt.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../.." />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -62,16 +76,49 @@
       <updated>1578309825129</updated>
       <workItem from="1578309829664" duration="6765000" />
       <workItem from="1578324512042" duration="3000" />
+      <workItem from="1578354172055" duration="1098000" />
+      <workItem from="1578357428797" duration="1578000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser" timestamp="1578320059398">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1578320059398" />
+    <state x="274" y="15" key="CommitChangelistDialog2" timestamp="1578357613342">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="274" y="15" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578357613342" />
+    <state x="549" y="176" key="FileChooserDialogImpl" timestamp="1578358359304">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="176" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1578358359304" />
+    <state x="408" y="121" key="NewModule_or_Project.wizard" timestamp="1578358704274">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="408" y="121" key="NewModule_or_Project.wizard/0.0.1536.834@0.0.1536.834" timestamp="1578358704274" />
+    <state x="272" y="63" key="SettingsEditor" timestamp="1578358137203">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="272" y="63" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1578358137203" />
+    <state x="999" y="342" key="VCS.ChangelistChooser" timestamp="1578357272508">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="999" y="342" key="VCS.ChangelistChooser/0.0.1536.834@0.0.1536.834" timestamp="1578357272508" />
   </component>
 </project>
